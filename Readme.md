@@ -44,4 +44,5 @@ curl -X POST \
 ## Built With
 
 * [serverless framework](https://serverless.com/)
+* [pixelmatch](https://github.com/mapbox/pixelmatch) - image diff library
 
